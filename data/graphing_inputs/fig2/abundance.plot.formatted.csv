@@ -1,0 +1,141 @@
+stack,xaxis,value
+Acidimicrobiia,Baltimore,0.048232412
+Actinobacteria,Baltimore,0.113356321
+Alphaproteobacteria,Baltimore,0.142578996
+Bacteroidia,Baltimore,0.142095889
+Gammaproteobacteria,Baltimore,0.152075237
+Oxyphotobacteria,Baltimore,0.31885339
+Other,Baltimore,0.082807755
+Acidimicrobiia,Charleston,0.035850792
+Actinobacteria,Charleston,0.038668182
+Alphaproteobacteria,Charleston,0.168219334
+Bacteroidia,Charleston,0.154595021
+Gammaproteobacteria,Charleston,0.160515335
+Oxyphotobacteria,Charleston,0.311501421
+Other,Charleston,0.130649915
+Acidimicrobiia,Galveston,0.037180276
+Actinobacteria,Galveston,0.027433489
+Alphaproteobacteria,Galveston,0.128485605
+Bacteroidia,Galveston,0.172943521
+Gammaproteobacteria,Galveston,0.148401028
+Oxyphotobacteria,Galveston,0.387899411
+Other,Galveston,0.097656671
+Acidimicrobiia,New Orleans,0.092748285
+Actinobacteria,New Orleans,0.208616029
+Alphaproteobacteria,New Orleans,0.141810326
+Bacteroidia,New Orleans,0.152570474
+Gammaproteobacteria,New Orleans,0.220509274
+Oxyphotobacteria,New Orleans,0.108019442
+Other,New Orleans,0.075726171
+Acidimicrobiia,New York,0.019179613
+Actinobacteria,New York,0.027016732
+Alphaproteobacteria,New York,0.251260015
+Bacteroidia,New York,0.208990886
+Gammaproteobacteria,New York,0.219974501
+Oxyphotobacteria,New York,0.190776157
+Other,New York,0.082802097
+Acidimicrobiia,Norfolk,0.025734904
+Actinobacteria,Norfolk,0.034818034
+Alphaproteobacteria,Norfolk,0.151005619
+Bacteroidia,Norfolk,0.143839576
+Gammaproteobacteria,Norfolk,0.1710246
+Oxyphotobacteria,Norfolk,0.370325917
+Other,Norfolk,0.103251349
+Acidimicrobiia,Los Angeles,0.030363069
+Actinobacteria,Los Angeles,0.036071394
+Alphaproteobacteria,Los Angeles,0.287113264
+Bacteroidia,Los Angeles,0.206426898
+Gammaproteobacteria,Los Angeles,0.147523424
+Oxyphotobacteria,Los Angeles,0.178740484
+Other,Los Angeles,0.113761468
+Acidimicrobiia,Oakland,0.037282791
+Actinobacteria,Oakland,0.032979532
+Alphaproteobacteria,Oakland,0.287250964
+Bacteroidia,Oakland,0.200304418
+Gammaproteobacteria,Oakland,0.160788856
+Oxyphotobacteria,Oakland,0.182983659
+Other,Oakland,0.098409781
+Acidimicrobiia,Seattle,0.031848717
+Actinobacteria,Seattle,0.032472039
+Alphaproteobacteria,Seattle,0.217487584
+Bacteroidia,Seattle,0.23687365
+Gammaproteobacteria,Seattle,0.144174086
+Oxyphotobacteria,Seattle,0.247157198
+Other,Seattle,0.089986726
+Acidimicrobiia,Martigues,0.023570944
+Actinobacteria,Martigues,0.040883024
+Alphaproteobacteria,Martigues,0.271477804
+Bacteroidia,Martigues,0.230842292
+Gammaproteobacteria,Martigues,0.197256137
+Oxyphotobacteria,Martigues,0.153730139
+Other,Martigues,0.082239659
+Acidimicrobiia,Naples,0.023490764
+Actinobacteria,Naples,0.022839342
+Alphaproteobacteria,Naples,0.199214338
+Bacteroidia,Naples,0.2133188
+Gammaproteobacteria,Naples,0.210936455
+Oxyphotobacteria,Naples,0.227037062
+Other,Naples,0.103163238
+Acidimicrobiia,Rotterdam,0.013601482
+Actinobacteria,Rotterdam,0.101082509
+Alphaproteobacteria,Rotterdam,0.105689007
+Bacteroidia,Rotterdam,0.272133342
+Gammaproteobacteria,Rotterdam,0.162958529
+Oxyphotobacteria,Rotterdam,0.232757158
+Other,Rotterdam,0.111777974
+Acidimicrobiia,Venice,0.018816639
+Actinobacteria,Venice,0.04191979
+Alphaproteobacteria,Venice,0.230742863
+Bacteroidia,Venice,0.201086061
+Gammaproteobacteria,Venice,0.221183602
+Oxyphotobacteria,Venice,0.173122696
+Other,Venice,0.113128349
+Acidimicrobiia,Wilhelmshaven,0.021708549
+Actinobacteria,Wilhelmshaven,0.025755323
+Alphaproteobacteria,Wilhelmshaven,0.298435056
+Bacteroidia,Wilhelmshaven,0.217879294
+Gammaproteobacteria,Wilhelmshaven,0.108358614
+Oxyphotobacteria,Wilhelmshaven,0.239721235
+Other,Wilhelmshaven,0.088141929
+Acidimicrobiia,Busan,0.017630897
+Actinobacteria,Busan,0.018403045
+Alphaproteobacteria,Busan,0.199381114
+Bacteroidia,Busan,0.223884241
+Gammaproteobacteria,Busan,0.183292175
+Oxyphotobacteria,Busan,0.259712588
+Other,Busan,0.09769594
+Acidimicrobiia,Hong Kong,0.023501905
+Actinobacteria,Hong Kong,0.027085406
+Alphaproteobacteria,Hong Kong,0.119694818
+Bacteroidia,Hong Kong,0.203443996
+Gammaproteobacteria,Hong Kong,0.358717779
+Oxyphotobacteria,Hong Kong,0.169657307
+Other,Hong Kong,0.09789879
+Acidimicrobiia,Singapore,0.032409505
+Actinobacteria,Singapore,0.029194369
+Alphaproteobacteria,Singapore,0.150814447
+Bacteroidia,Singapore,0.202264778
+Gammaproteobacteria,Singapore,0.296521001
+Oxyphotobacteria,Singapore,0.173972401
+Other,Singapore,0.114823499
+Acidimicrobiia,Duluth,0.02741461
+Actinobacteria,Duluth,0.156516042
+Alphaproteobacteria,Duluth,0.172817923
+Bacteroidia,Duluth,0.163706127
+Gammaproteobacteria,Duluth,0.224317606
+Oxyphotobacteria,Duluth,0.16920575
+Other,Duluth,0.086021943
+Acidimicrobiia,Green Bay,0.021073968
+Actinobacteria,Green Bay,0.224227803
+Alphaproteobacteria,Green Bay,0.111429096
+Bacteroidia,Green Bay,0.131452308
+Gammaproteobacteria,Green Bay,0.174712808
+Oxyphotobacteria,Green Bay,0.243493609
+Other,Green Bay,0.093610408
+Acidimicrobiia,Keweenaw,0.035000481
+Actinobacteria,Keweenaw,0.118258199
+Alphaproteobacteria,Keweenaw,0.102546521
+Bacteroidia,Keweenaw,0.268414929
+Gammaproteobacteria,Keweenaw,0.256313886
+Oxyphotobacteria,Keweenaw,0.10885697
+Other,Keweenaw,0.110609013
