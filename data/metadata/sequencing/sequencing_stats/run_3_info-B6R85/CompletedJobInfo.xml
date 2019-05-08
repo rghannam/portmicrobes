@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<AnalysisJobInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0">
+  <AlignmentFolder>D:\Illumina\MiSeqAnalysis\171220_M00573_0017_000000000-B6R85\Data\Intensities\BaseCalls\Alignment</AlignmentFolder>
+  <CompletionTime>2017-12-23T07:38:55.4684344-05:00</CompletionTime>
+  <RTARunInfo Version="2">
+    <Run Id="171220_M00573_0017_000000000-B6R85" Number="17">
+      <Flowcell>000000000-B6R85</Flowcell>
+      <Instrument>M00573</Instrument>
+      <Date>171220</Date>
+      <Reads>
+        <Read NumCycles="301" StartFromCycle="1" EndWithCycle="301" IsIndexedRead="N" />
+        <Read NumCycles="12" StartFromCycle="1" EndWithCycle="12" IsIndexedRead="Y" />
+        <Read NumCycles="12" StartFromCycle="1" EndWithCycle="12" IsIndexedRead="Y" />
+        <Read NumCycles="301" StartFromCycle="1" EndWithCycle="301" IsIndexedRead="N" />
+      </Reads>
+      <FlowcellLayout LaneCount="1" SurfaceCount="2" SwathCount="1" TileCount="19" />
+      <AlignToPhiX />
+    </Run>
+  </RTARunInfo>
+  <RunFolder>D:\Illumina\MiSeqAnalysis\171220_M00573_0017_000000000-B6R85</RunFolder>
+  <Sheet>
+    <Type>MiSeq</Type>
+    <WorkflowType>GenerateFASTQ</WorkflowType>
+    <Header>
+      <Chemistry>Amplicon</Chemistry>
+      <Date>12/20/17</Date>
+      <ExperimentName>DARPA</ExperimentName>
+      <InvestigatorName>Ryan Ghannam</InvestigatorName>
+    </Header>
+  </Sheet>
+  <StartTime>2017-12-23T06:20:54.3318809-05:00</StartTime>
+  <Workflow>
+    <WorkflowSettings>
+      <AdapterSequences>
+        <string>CTGTCTCTTATACACATCT</string>
+      </AdapterSequences>
+      <AdapterSequences2>
+        <string>CTGTCTCTTATACACATCT</string>
+      </AdapterSequences2>
+      <TrimFastq>false</TrimFastq>
+      <FastQInput>false</FastQInput>
+      <StitchReads>false</StitchReads>
+      <MaximumThreadCount>0</MaximumThreadCount>
+      <ReadTrimQualityScoreLevel>0</ReadTrimQualityScoreLevel>
+      <ReverseComplement>false</ReverseComplement>
+      <VarCallerSettings>
+        <Filters>
+          <FilterOutSingleProbePoolVariants>false</FilterOutSingleProbePoolVariants>
+          <FilterOutSingleStrandVariants>false</FilterOutSingleStrandVariants>
+          <IndelRepeatFilterCutoff>8</IndelRepeatFilterCutoff>
+          <MinQScore>0</MinQScore>
+          <MinimumCoverageDepthEmitCutoff>-1</MinimumCoverageDepthEmitCutoff>
+          <MinimumDepthCutoff>-1</MinimumDepthCutoff>
+          <MinimumGQCutoff>0</MinimumGQCutoff>
+          <MinimumGQXCutoff>0</MinimumGQXCutoff>
+          <MinimumMQCutoff>-1</MinimumMQCutoff>
+          <MinimumQDCutoff>0</MinimumQDCutoff>
+          <MinimumQualCutoff>-1</MinimumQualCutoff>
+          <MinimumQualityEmitCutoff>-1</MinimumQualityEmitCutoff>
+          <OnlyCallInROI>false</OnlyCallInROI>
+          <OnlyUseProperPairs>false</OnlyUseProperPairs>
+          <CallPhasedSNVs>false</CallPhasedSNVs>
+          <StrandBiasFilterCutoff>0</StrandBiasFilterCutoff>
+          <MaxSizePhasedSNV>100</MaxSizePhasedSNV>
+          <QualityModel>Poisson</QualityModel>
+          <VariantFrequencyEmitCutoff>0.1</VariantFrequencyEmitCutoff>
+          <VariantFrequencyFilterCutoff>0.2</VariantFrequencyFilterCutoff>
+          <FilterOffTargetVariants>false</FilterOffTargetVariants>
+        </Filters>
+        <Annotation>MARS</Annotation>
+        <SVAnnotation>None</SVAnnotation>
+        <AnnotationSource>refseq</AnnotationSource>
+        <AnnotateHGMD>false</AnnotateHGMD>
+        <OutputGenomeVcf>false</OutputGenomeVcf>
+        <GVcfBlockCompression>true</GVcfBlockCompression>
+      </VarCallerSettings>
+      <VariantCaller>None</VariantCaller>
+      <ComputePerTileStats>true</ComputePerTileStats>
+      <CompressBam>false</CompressBam>
+    </WorkflowSettings>
+    <Analysis>GenerateFASTQ</Analysis>
+    <WorkflowVersion>0.0.0.0</WorkflowVersion>
+  </Workflow>
+  <AnalysisSoftwareVersion>2.6.2.3</AnalysisSoftwareVersion>
+  <RTAOutputFolder>D:\Illumina\MiSeqOutput\171220_M00573_0017_000000000-B6R85</RTAOutputFolder>
+</AnalysisJobInfo>

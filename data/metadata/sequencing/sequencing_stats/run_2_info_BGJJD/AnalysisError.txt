@@ -1,0 +1,2 @@
+12/17/2017,22:32:02.761,MiSeq Reporter 2.6.2.3: Starting Error Logging for 171215_M00573_0016_000000000-BGJJD
+12/18/2017,00:32:45.284,Copy thread has taken too long (over 1800 seconds) - aborting
