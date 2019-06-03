@@ -18,10 +18,10 @@ detachAllPackages <- function() {
 
 detachAllPackages()
 
-library("rlang", lib.loc="~/R/x86_64-redhat-linux-gnu-library/3.5")
-library("ggplot2", lib.loc="~/R/x86_64-redhat-linux-gnu-library/3.5")
-library("Rcpp", lib.loc="/usr/lib64/R/library")
-library("ggplot2", lib.loc="~/R/x86_64-redhat-linux-gnu-library/3.5")
+library("rlang")
+library("ggplot2")
+library("Rcpp")
+library("ggplot2")
 library("vegan")
 library("csv")
 library("plotly")
