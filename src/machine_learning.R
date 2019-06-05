@@ -51,7 +51,7 @@ for (i in 1:length(ncts)){
 }
 
 # Append the labels to each element of the list
-ncts<-lapply(ncts2, function(x) 
+ncts<-lapply(ncts, function(x) 
   cbind(x, localInd = localInd$localInd))
 class(ncts[[1]]$localInd)
 
